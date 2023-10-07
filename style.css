@@ -10,6 +10,7 @@ a
 
 .card
 {
+   
     transition: 3s;
     border: 3px groove rgb(14, 14, 12) !important;
 }
@@ -22,3 +23,15 @@ a
     box-shadow: 0px 0px 20px rgb(184, 44, 19);
 }
 
+
+.xyz
+{
+    border: 10px groove rgb(14, 14, 12) !important;
+}
+
+.pqr
+{ 
+    border: 3px groove rgb(183, 183, 36) !important;
+    margin-top: 5px;
+    background-color: rgb(157, 255, 0) !important;
+}
